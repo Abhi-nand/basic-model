@@ -25,3 +25,4 @@ git remote add origin https://github.com/Abhi-nand/to-do.git=====add a link to t
 git remote or git remote -v ====check if the remote has been added by executing  to get more information. <br />
 “README.md ======for description of project in Markdown<br />
 git push origin master=======The git push command to remote directory in github
+and finally authenticate with your git hub account
